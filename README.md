@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @csaung
-- 👀 I’m interested in System Software, Embedded Systems and Machine Learning
+- 👋 Hi, I’m Chris
+- 👀 I’m interested in System Software, Deep Learning, Networking & Embedded Systems.
 
 <!---
 csaung/csaung is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
