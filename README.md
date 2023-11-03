@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Chris
-- 👀 I’m interested in System Software, Deep Learning, Networking & Embedded Systems.
+- 👀 I’m interested in System Software, Deep Learning, FPGAs & Embedded Systems.
 
 <!---
 csaung/csaung is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
