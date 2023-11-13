@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Chris
-- I'm an Embedded Software Engineer at Verkada, focusing on Wireless Systems, Bare-Metal Firmware, Embedded Linux, Embedded Android, and Distributed Systems.
+- I'm an Embedded Software Engineer at Verkada, focusing on Wireless Systems, Bare-Metal Firmware, Embedded Linux, AndroidOS, and Distributed Systems.
 - Interested in the applications of FPGAs, embedded machine learning, and edge computing.
 
 <!---
